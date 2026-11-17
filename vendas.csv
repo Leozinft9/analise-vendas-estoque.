@@ -1,0 +1,118 @@
+﻿venda_id;data_venda;cliente;forma_pagamento
+1;2026-01-01;Cliente 005;Pix
+2;2026-01-03;Cliente 007;Dinheiro
+3;2026-01-17;Cliente 001;Pix
+4;2026-01-11;Cliente 005;Pix
+5;2026-01-13;Cliente 002;Cartão de débito
+6;2026-01-13;Cliente 002;Cartão de débito
+7;2026-01-04;Cliente 007;Cartão de débito
+8;2026-01-23;Cliente 002;Pix
+9;2026-01-08;Cliente 001;Cartão de débito
+10;2026-02-13;Cliente 008;Pix
+11;2026-02-14;Cliente 007;Cartão de débito
+12;2026-02-03;Cliente 001;Dinheiro
+13;2026-02-03;Cliente 007;Cartão de crédito
+14;2026-02-04;Cliente 005;Cartão de crédito
+15;2026-02-17;Cliente 003;Dinheiro
+16;2026-02-20;Cliente 006;Cartão de crédito
+17;2026-02-08;Cliente 001;Pix
+18;2026-02-06;Cliente 005;Cartão de crédito
+19;2026-02-13;Cliente 006;Cartão de crédito
+20;2026-02-08;Cliente 004;Dinheiro
+21;2026-02-02;Cliente 006;Dinheiro
+22;2026-02-08;Cliente 008;Cartão de crédito
+23;2026-02-12;Cliente 007;Cartão de crédito
+24;2026-02-08;Cliente 004;Pix
+25;2026-03-02;Cliente 001;Dinheiro
+26;2026-03-16;Cliente 004;Cartão de crédito
+27;2026-03-13;Cliente 005;Cartão de crédito
+28;2026-03-07;Cliente 001;Dinheiro
+29;2026-03-17;Cliente 002;Pix
+30;2026-03-13;Cliente 002;Pix
+31;2026-03-07;Cliente 006;Pix
+32;2026-03-01;Cliente 008;Dinheiro
+33;2026-03-09;Cliente 003;Cartão de débito
+34;2026-04-15;Cliente 005;Dinheiro
+35;2026-04-09;Cliente 005;Pix
+36;2026-04-27;Cliente 005;Dinheiro
+37;2026-04-06;Cliente 008;Cartão de crédito
+38;2026-04-05;Cliente 007;Pix
+39;2026-04-12;Cliente 004;Pix
+40;2026-04-14;Cliente 001;Pix
+41;2026-04-08;Cliente 004;Cartão de crédito
+42;2026-04-11;Cliente 005;Dinheiro
+43;2026-04-04;Cliente 005;Pix
+44;2026-05-13;Cliente 004;Cartão de débito
+45;2026-05-26;Cliente 004;Cartão de débito
+46;2026-05-17;Cliente 005;Cartão de crédito
+47;2026-05-22;Cliente 007;Pix
+48;2026-05-26;Cliente 006;Cartão de crédito
+49;2026-05-10;Cliente 006;Dinheiro
+50;2026-05-05;Cliente 001;Dinheiro
+51;2026-05-15;Cliente 007;Pix
+52;2026-05-06;Cliente 008;Dinheiro
+53;2026-06-20;Cliente 007;Cartão de crédito
+54;2026-06-25;Cliente 004;Cartão de débito
+55;2026-06-11;Cliente 002;Pix
+56;2026-06-23;Cliente 004;Dinheiro
+57;2026-06-07;Cliente 007;Cartão de crédito
+58;2026-06-18;Cliente 004;Cartão de crédito
+59;2026-06-01;Cliente 007;Cartão de débito
+60;2026-06-19;Cliente 001;Dinheiro
+61;2026-06-15;Cliente 006;Cartão de débito
+62;2026-06-24;Cliente 001;Cartão de débito
+63;2026-06-08;Cliente 004;Dinheiro
+64;2026-06-25;Cliente 006;Pix
+65;2026-06-22;Cliente 007;Cartão de crédito
+66;2026-06-12;Cliente 007;Cartão de débito
+67;2026-06-14;Cliente 008;Dinheiro
+68;2026-07-20;Cliente 008;Cartão de crédito
+69;2026-07-15;Cliente 004;Cartão de crédito
+70;2026-07-12;Cliente 005;Cartão de débito
+71;2026-07-03;Cliente 004;Cartão de crédito
+72;2026-07-03;Cliente 005;Pix
+73;2026-07-17;Cliente 006;Cartão de crédito
+74;2026-07-24;Cliente 004;Cartão de débito
+75;2026-07-07;Cliente 008;Cartão de débito
+76;2026-07-10;Cliente 001;Pix
+77;2026-07-04;Cliente 001;Cartão de débito
+78;2026-07-16;Cliente 002;Dinheiro
+79;2026-07-26;Cliente 005;Dinheiro
+80;2026-08-25;Cliente 007;Cartão de crédito
+81;2026-08-02;Cliente 002;Pix
+82;2026-08-01;Cliente 007;Cartão de crédito
+83;2026-08-22;Cliente 004;Cartão de débito
+84;2026-08-03;Cliente 001;Pix
+85;2026-08-23;Cliente 005;Cartão de crédito
+86;2026-08-02;Cliente 007;Cartão de débito
+87;2026-08-02;Cliente 003;Cartão de crédito
+88;2026-08-14;Cliente 006;Cartão de débito
+89;2026-08-15;Cliente 002;Cartão de débito
+90;2026-08-15;Cliente 007;Dinheiro
+91;2026-09-21;Cliente 008;Dinheiro
+92;2026-09-10;Cliente 008;Cartão de crédito
+93;2026-09-23;Cliente 003;Cartão de débito
+94;2026-09-16;Cliente 005;Cartão de débito
+95;2026-09-13;Cliente 004;Pix
+96;2026-09-26;Cliente 005;Dinheiro
+97;2026-09-18;Cliente 008;Cartão de débito
+98;2026-09-23;Cliente 004;Cartão de crédito
+99;2026-09-24;Cliente 008;Cartão de crédito
+100;2026-09-11;Cliente 002;Cartão de crédito
+101;2026-09-24;Cliente 003;Cartão de crédito
+102;2026-09-22;Cliente 007;Cartão de débito
+103;2026-09-14;Cliente 002;Dinheiro
+104;2026-09-10;Cliente 006;Cartão de débito
+105;2026-09-06;Cliente 003;Dinheiro
+106;2026-10-22;Cliente 001;Cartão de crédito
+107;2026-10-10;Cliente 007;Cartão de débito
+108;2026-10-13;Cliente 006;Cartão de débito
+109;2026-10-27;Cliente 005;Pix
+110;2026-10-26;Cliente 008;Dinheiro
+111;2026-10-26;Cliente 006;Cartão de débito
+112;2026-10-24;Cliente 006;Dinheiro
+113;2026-10-03;Cliente 007;Dinheiro
+114;2026-10-13;Cliente 006;Dinheiro
+115;2026-10-21;Cliente 008;Cartão de débito
+116;2026-10-08;Cliente 003;Cartão de crédito
+117;2026-10-21;Cliente 002;Cartão de crédito

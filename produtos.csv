@@ -1,0 +1,21 @@
+﻿produto_id;produto;categoria;custo_unitario;preco_venda;estoque_atual;estoque_minimo
+1;Detergente Neutro 500ml;Limpeza;3.5;6.9;120;20
+2;Desinfetante Floral 2L;Limpeza;5.8;11.9;75;15
+3;Água Sanitária 1L;Limpeza;2.6;5.5;180;30
+4;Lava-Roupas 1L;Limpeza;7.2;14.9;55;12
+5;Amaciante 2L;Limpeza;6.5;13.5;48;10
+6;Esponja Multiuso;Acessórios;1.2;2.9;200;40
+7;Pano de Microfibra;Acessórios;4.0;9.9;35;10
+8;Limpador Perfumado 1L;Limpeza;4.3;9.5;62;12
+9;Lava-Carros 1L;Automotivo;8.5;17.9;28;8
+10;Pretinho para Pneus 500ml;Automotivo;9.0;19.9;18;8
+11;Cera Automotiva 200g;Automotivo;12.0;24.9;14;5
+12;Desengraxante 1L;Automotivo;7.0;15.9;40;10
+13;Luva de Limpeza;Acessórios;3.8;8.9;90;20
+14;Balde 10L;Acessórios;8.0;16.9;22;6
+15;Rodo 30cm;Acessórios;6.0;12.9;31;8
+16;Detergente Coco 500ml;Limpeza;3.6;6.9;95;20
+17;Limpa Vidros 500ml;Limpeza;4.2;9.9;44;10
+18;Silicone Gel 300g;Automotivo;10.0;21.9;12;5
+19;Escova para Limpeza;Acessórios;5.0;10.9;26;8
+20;Desinfetante Lavanda 2L;Limpeza;5.9;11.9;68;15
