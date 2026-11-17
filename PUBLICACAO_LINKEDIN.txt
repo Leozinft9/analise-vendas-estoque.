@@ -1,0 +1,16 @@
+Meu primeiro projeto de portfólio em Análise de Dados!
+
+Desenvolvi um estudo fictício de vendas e gestão de estoque para praticar SQL e transformar dados operacionais em indicadores de negócio.
+
+Neste projeto trabalhei com:
+- Modelagem básica de tabelas relacionais;
+- Consultas SQL com JOIN, GROUP BY e funções de agregação;
+- Análise de faturamento, ticket médio e produtos mais vendidos;
+- Identificação de itens que precisam de reposição;
+- Estimativa de margem bruta por produto.
+
+Próximo passo: construir um dashboard no Power BI para apresentar os principais indicadores.
+
+Os dados utilizados são fictícios e foram criados para fins de aprendizado.
+
+#SQL #AnaliseDeDados #DataAnalytics #PowerBI #Portfolio
